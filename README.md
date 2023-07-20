@@ -11,6 +11,9 @@
 # QQ数据库导出群图片路径并移动或者删除
 在Windows平台下，读取解密解码后的QQ数据库，导出QQ群消息中的图片路径，将其按QQ群分类来进行移动（删除）
 
+## 视频教程：  
+[Bilibili：删除指定QQ群的图片【tjxwork】](https://www.bilibili.com/video/BV1NM4y1s7tS)  
+
 ## 前置项目：  
 
 https://github.com/Young-Lord/qq-win-db-key  
