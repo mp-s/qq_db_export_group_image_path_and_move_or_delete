@@ -17,7 +17,7 @@ QQ数据库导出群图片路径并移动或者删除
 [Python 加 PowerShell 删除指定QQ群的图片 - tjxblog](https://www.tjxblog.com/blog/2023-0009)  
 
 ## 视频教程：  
-[删除指定QQ群的图片【tjxwork】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1NM4y1s7tS/)  
+[删除指定QQ群的图片【tjxwork】- Bilibili](https://www.bilibili.com/video/BV1NM4y1s7tS/)  
 
 [删除指定QQ群的图片【tjxwork】 - YouTube](https://www.youtube.com/watch?v=lMe9MrxBN-c)  
 
