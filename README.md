@@ -8,11 +8,18 @@
  * 
  * Copyright (c) 2023 by tjxwork, All Rights Reserved. 
 -->
-# QQ数据库导出群图片路径并移动或者删除
-在Windows平台下，读取解密解码后的QQ数据库，导出QQ群消息中的图片路径，将其按QQ群分类来进行移动（删除）
+# qq_db_export_group_image_path_and_move_or_delete  
+QQ数据库导出群图片路径并移动或者删除  
+
+在Windows平台下，读取解密解码后的QQ数据库，导出QQ群消息中的图片路径，将其按QQ群分类来进行移动（删除）  
+
+## 图文教程：  
+[Python 加 PowerShell 删除指定QQ群的图片 - tjxblog](https://www.tjxblog.com/blog/2023-0009)  
 
 ## 视频教程：  
-[Bilibili：删除指定QQ群的图片【tjxwork】](https://www.bilibili.com/video/BV1NM4y1s7tS)  
+[删除指定QQ群的图片【tjxwork】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1NM4y1s7tS/)  
+
+[删除指定QQ群的图片【tjxwork】 - YouTube](https://www.youtube.com/watch?v=lMe9MrxBN-c)  
 
 ## 前置项目：  
 
